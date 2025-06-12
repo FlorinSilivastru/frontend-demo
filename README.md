@@ -48,7 +48,7 @@ The project will be extended with the following features:
 - 🔄 **Redux Store** – Centralized state management  
 - 🎯 **Selectors** – Efficient state access with memoization  
 - 🧵 **Redux-Saga** – Side effect model for async operations  
-
+- 🧵 **Material UI** – UI   
 ## 🧑‍💻 Getting Started
 
 Clone the repo and install dependencies:
