@@ -17,6 +17,7 @@ cd my-app
 - Modular **route creation**  
 - **Lazy loading** with React's `lazy` and `Suspense`  
 - Clean and scalable **folder structure**
+- **Env files** for each environment
 
 ## 📁 Current Folder Structure
 
