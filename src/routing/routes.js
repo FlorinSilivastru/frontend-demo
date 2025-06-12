@@ -1,4 +1,4 @@
-import { createComponent } from "./componentLoader";
+import { createComponent } from "../components/create-component/componentLoader";
 import { roleTypes } from "../user-roles/roles";
 
 export default function createRoutes(store) {

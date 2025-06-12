@@ -1,4 +1,4 @@
-const Dashboard = () => {
-    return(<>This is dashboard page</>)
+const LandingPage = () => {
+    return(<>This is LandingPage page</>)
 }
-export default Dashboard;
+export default LandingPage;
