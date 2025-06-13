@@ -4,8 +4,8 @@ import { Suspense } from 'react';
 import { Routes } from 'react-router';
 import PrivateRoute from './components/private-route/private-route';
 import createRoutes from './routing/routes';
+import store from './store/store';
 
-const store = {} //will be created later
 function App() {
   const allRoutes = createRoutes(store);
 
